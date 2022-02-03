@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4gfC/9JZQYA9Ttomp0LF4AeFOHfxgbGdl7Y6SE/68HOStQSSgi6RZAnfvreMICriMPTD/CXeewFJvRLvMeqf2A==",
+  "dgSpecHash": "glqfdeGAlg5f1D6P76pRDtlU7lostJ7z34hXbx+EYjuCSrblq/2NrbwPi55/VOhSzGInFonc5mQ4yDvtm7XufQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\keury\\Desktop\\Library App\\backend\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\keury\\Desktop\\Library App\\Libreria\\backend\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

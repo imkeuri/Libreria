@@ -1,6 +1,8 @@
 ﻿using Entities;
 using Negocio.IContratos;
 using Newtonsoft.Json;
+using NUnit.Framework;
+using NUnit.Framework.Internal;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +13,7 @@ using System.Threading.Tasks;
 
 namespace Negocio.Contratos
 {
+   
     public class BooksContratos : IBooksContract<Books>
     {
         private readonly HttpClient _httpClient = null!;
@@ -21,7 +24,7 @@ namespace Negocio.Contratos
         {
           _httpClient = httpClient;
         }
-        
+   
         public  async Task<Books> CreateBooks(Books book)
         {
             var content = JsonConvert.SerializeObject(book);
@@ -35,7 +38,7 @@ namespace Negocio.Contratos
             var json = JsonConvert.DeserializeObject<Books>(await httpResponse.Content.ReadAsStringAsync());
             return json;
         }
-
+      
         public async Task DeleteBooks(int id)
         {
             var httpResponse = await _httpClient.DeleteAsync($"{url}{id}");
@@ -56,6 +59,7 @@ namespace Negocio.Contratos
             }
 
             var content = await httpResponse.Content.ReadAsStringAsync();
+
             var tasks = JsonConvert.DeserializeObject<List<Books>>(content);
 
             return tasks;

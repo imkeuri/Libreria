@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keury\\Desktop\\Library App\\backend\\Entities\\Entities.csproj": {}
+    "C:\\Users\\keury\\Desktop\\Library App\\Libreria\\backend\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keury\\Desktop\\Library App\\backend\\Entities\\Entities.csproj": {
+    "C:\\Users\\keury\\Desktop\\Library App\\Libreria\\backend\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keury\\Desktop\\Library App\\backend\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\keury\\Desktop\\Library App\\Libreria\\backend\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\keury\\Desktop\\Library App\\backend\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\keury\\Desktop\\Library App\\Libreria\\backend\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\keury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keury\\Desktop\\Library App\\backend\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\keury\\Desktop\\Library App\\Libreria\\backend\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keury\\AppData\\Roaming\\NuGet\\NuGet.Config",

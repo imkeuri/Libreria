@@ -12,6 +12,10 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\keury\.nuget\packages\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)nunit3testadapter\4.2.1\build\netcoreapp2.1\NUnit3TestAdapter.props" Condition="Exists('$(NuGetPackageRoot)nunit3testadapter\4.2.1\build\netcoreapp2.1\NUnit3TestAdapter.props')" />
+    <Import Project="$(NuGetPackageRoot)nunit\3.13.2\build\NUnit.props" Condition="Exists('$(NuGetPackageRoot)nunit\3.13.2\build\NUnit.props')" />
+  </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\keury\.nuget\packages\newtonsoft.json\10.0.1</PkgNewtonsoft_Json>
   </PropertyGroup>

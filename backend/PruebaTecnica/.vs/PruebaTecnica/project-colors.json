@@ -30,7 +30,17 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "227bb0dd-7e61-437c-9d68-19272504ed40": {
+      "ProjectGuid": "227bb0dd-7e61-437c-9d68-19272504ed40",
+      "DisplayName": "UnitTestService",
+      "ColorIndex": 5
+    },
+    "ab468c0c-c19c-4188-a5f5-8b01ca7a9242": {
+      "ProjectGuid": "ab468c0c-c19c-4188-a5f5-8b01ca7a9242",
+      "DisplayName": "TestServiceLayer",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }

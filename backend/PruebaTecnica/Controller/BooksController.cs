@@ -28,7 +28,7 @@ namespace PruebaTecnica.Controller
             try
             {
                 var list_books = await _booksContract.GetBooks();
-                return Ok(new {Status = 1, books = list_books});
+                return Ok(new {books = list_books});
             }
             catch (Exception message)
             {
