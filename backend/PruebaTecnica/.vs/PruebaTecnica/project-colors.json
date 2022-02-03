@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b1a7c33-8519-4166-ae6a-347a63e2958a": {
+      "ProjectGuid": "1b1a7c33-8519-4166-ae6a-347a63e2958a",
+      "DisplayName": "PruebaTecnica",
+      "ColorIndex": 0
+    },
+    "16b967cb-3388-4fb6-8b03-0e92cec3dbed": {
+      "ProjectGuid": "16b967cb-3388-4fb6-8b03-0e92cec3dbed",
+      "DisplayName": "Datos",
+      "ColorIndex": 1
+    },
+    "1241de5d-87f1-44ff-b20e-3c0b3050d5ed": {
+      "ProjectGuid": "1241de5d-87f1-44ff-b20e-3c0b3050d5ed",
+      "DisplayName": "Service",
+      "ColorIndex": 2
+    },
+    "d1e7ce1a-fd0f-47e9-aca9-aaf96fc6609f": {
+      "ProjectGuid": "d1e7ce1a-fd0f-47e9-aca9-aaf96fc6609f",
+      "DisplayName": "Entidades",
+      "ColorIndex": 3
+    },
+    "c5f7e839-2b1d-48e1-9fe9-5c3ba60e4f7e": {
+      "ProjectGuid": "c5f7e839-2b1d-48e1-9fe9-5c3ba60e4f7e",
+      "DisplayName": "Entities",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

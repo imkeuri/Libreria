@@ -1,0 +1,30 @@
+C:\Users\keury\source\repos\Negocio\bin\Debug\net5.0\Service.deps.json
+C:\Users\keury\source\repos\Negocio\bin\Debug\net5.0\Service.dll
+C:\Users\keury\source\repos\Negocio\bin\Debug\net5.0\ref\Service.dll
+C:\Users\keury\source\repos\Negocio\bin\Debug\net5.0\Service.pdb
+C:\Users\keury\source\repos\Negocio\bin\Debug\net5.0\Entities.dll
+C:\Users\keury\source\repos\Negocio\bin\Debug\net5.0\Entities.pdb
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Service.dll
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\ref\Service.dll
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Service.pdb
+C:\Users\keury\Desktop\Library App\backend\Negocio\bin\Debug\net5.0\Service.deps.json
+C:\Users\keury\Desktop\Library App\backend\Negocio\bin\Debug\net5.0\Service.dll
+C:\Users\keury\Desktop\Library App\backend\Negocio\bin\Debug\net5.0\ref\Service.dll
+C:\Users\keury\Desktop\Library App\backend\Negocio\bin\Debug\net5.0\Service.pdb
+C:\Users\keury\Desktop\Library App\backend\Negocio\bin\Debug\net5.0\Entities.dll
+C:\Users\keury\Desktop\Library App\backend\Negocio\bin\Debug\net5.0\Entities.pdb
+C:\Users\keury\Desktop\Library App\backend\Negocio\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+C:\Users\keury\Desktop\Library App\backend\Negocio\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keury\Desktop\Library App\backend\Negocio\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\keury\Desktop\Library App\backend\Negocio\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\keury\Desktop\Library App\backend\Negocio\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\keury\Desktop\Library App\backend\Negocio\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\Users\keury\Desktop\Library App\backend\Negocio\obj\Debug\net5.0\Service.dll
+C:\Users\keury\Desktop\Library App\backend\Negocio\obj\Debug\net5.0\ref\Service.dll
+C:\Users\keury\Desktop\Library App\backend\Negocio\obj\Debug\net5.0\Service.pdb

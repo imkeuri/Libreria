@@ -1,0 +1,17 @@
+C:\Users\keury\source\repos\Negocio\bin\Debug\net5.0\Negocio.deps.json
+C:\Users\keury\source\repos\Negocio\bin\Debug\net5.0\Negocio.dll
+C:\Users\keury\source\repos\Negocio\bin\Debug\net5.0\ref\Negocio.dll
+C:\Users\keury\source\repos\Negocio\bin\Debug\net5.0\Negocio.pdb
+C:\Users\keury\source\repos\Negocio\bin\Debug\net5.0\Datos.dll
+C:\Users\keury\source\repos\Negocio\bin\Debug\net5.0\Entidades.dll
+C:\Users\keury\source\repos\Negocio\bin\Debug\net5.0\Datos.pdb
+C:\Users\keury\source\repos\Negocio\bin\Debug\net5.0\Entidades.pdb
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Negocio.AssemblyInfo.cs
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Negocio.csproj.CopyComplete
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Negocio.dll
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\ref\Negocio.dll
+C:\Users\keury\source\repos\Negocio\obj\Debug\net5.0\Negocio.pdb
