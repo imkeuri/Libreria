@@ -1,2 +1,2 @@
-# Libreria
-Esto es una prueba tecnica en la cual consiste en realizar el consumo de una api para el backend en el lenguaje de C# y el frontend en la tecnologia de mi preferencia, la cual elegi AngularJS
+# Library App
+The Library App is a visionary entry-level project that seamlessly integrates the power of C# programming with a third-party API, creating a dynamic and robust data source for the frontend application. Through meticulous craftsmanship, this API acts as a bridge, effortlessly connecting the frontend to a treasure trove of rich content. Crafted with precision and innovation, the Library App represents a pioneering step in the world of application development, demonstrating the potential of C# to unlock a world of knowledge and information.
